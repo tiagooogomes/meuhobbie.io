@@ -1,0 +1,135 @@
+h1{
+    color: #2e468e;
+    text-align: center;
+    margin-top: 0%;
+    font-size: 100px;
+    font-family: 'Pacifico', cursive;
+}
+
+h2{
+    color: #2e468e;
+    text-align: center;
+    font-size: 45px;
+}
+
+body{
+    font-family: Gilroy, sans-serif;
+}
+
+#sub{
+    margin-top: -5%;
+}
+
+#start{
+    width: 100%;
+    height: 967px;
+    background-image: url(img/capa8.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding-top: 5%;
+
+}
+
+#cloak{
+    width: 100%;
+}
+
+#photo{
+    width: 14%;
+    border-radius: 50%;
+}
+
+#div1{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#about{
+    font-size: 35px;
+    width: 40%;
+    text-align: justify;
+}
+
+#tisuru{
+    width: 30%;
+    margin-top: 2%;
+}
+
+#my{
+    background-color: #ffd179; 
+    width: 100%; 
+    height: 850px; 
+    text-align: center; 
+    padding-top: 3%;
+}
+
+#my h2{
+    color: #d8505e;
+}
+
+#description{
+    font-size: 35px;
+    width: 90%;
+    text-align: justify;
+    margin-left: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+marquee img{
+    border-radius: 5%;
+    width: 15%;
+}
+
+#pessoa{
+    width: 13.5%;
+}
+
+#girafa{
+    width: 14.75%;
+}
+
+#slide{
+    margin-top: 5%;
+    margin-bottom: 3%;
+    color: #d8505e;
+}
+
+#youtubers{
+    margin-top: 5%;
+}
+
+#refe{
+    color: #d8505e;
+}
+
+ul{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5%;
+}
+
+span{
+    font-size: 30px;
+    margin-top: 10%;
+}
+
+li{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+li img{
+    border-radius: 50%;
+}
+
+footer{
+    width: 100%;
+    height: 50px;
+    background-color: #ffd179;
+    margin-top: 5%;
+}
+
